@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "国内镜像源",
+    "description": "测速并切换 GitHub/npm/pip 国内镜像，支持自定义源、用户级配置与回滚。"
+  }
+}

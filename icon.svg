@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-label="Always in Proxy">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#155eef"/>
+      <stop offset="1" stop-color="#0b3d91"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="28" fill="url(#bg)"/>
+  <path d="M26 44h55l-11-11 8-8 25 24-25 24-8-8 11-11H26z" fill="#fff"/>
+  <path d="M102 72H47l11 11-8 8-25-24 25-24 8 8-11 11h55z" fill="#9ec5ff" opacity=".92"/>
+  <circle cx="64" cy="64" r="6" fill="#fff"/>
+</svg>

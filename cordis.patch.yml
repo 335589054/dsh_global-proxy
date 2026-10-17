@@ -1,0 +1,14 @@
+# always-in-proxy: user-level China mirror manager.
+# It registers Agent tools, a /mirror command and prompt guidance. It does not
+# touch user config files until apply is invoked.
+- insert:
+    - id: always-in-proxy
+      name: '@local/always-in-proxy'
+      config:
+        enabled: true
+        strategy: fastest
+        autoApply: false
+        targets:
+          github: true
+          npm: true
+          pip: true

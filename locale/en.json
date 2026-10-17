@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "China Mirror Sources",
+    "description": "Speed-test and switch GitHub/npm/pip to China mirrors, with custom sources, user-level config and rollback."
+  }
+}
